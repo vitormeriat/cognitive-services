@@ -9,3 +9,5 @@ Tests with [IBM](https://www.ibm.com/cognitive/) and [Microsoft Azure](https://a
 ### Text Analytics
 
 ### Translator Text
+
+### Computer Vision
