@@ -1,0 +1,107 @@
+Acute angle – An angle which measures below 90°.
+Acute triangle – A triangle containing only acute angles.
+Bell curve is the shape of the graph that indicates a normal distribution in probability and statistics.
+Additive inverse – The opposite of a number or its negative. A number plus its additive inverse equals 0.
+Adjacent angles – Angles with a common side and vertex.
+Angle – Created by two rays and containing an endpoint in common.
+Arc – A set of points that lie on a circle and that are positioned within a central angle.
+Area – The space contained within a shape.
+Average – The numerical result of dividing the sum of two or more quantities by the number of quantities.
+Binomial – An expression in algebra that consists of two terms.
+Bisect – To divide into two equal sections.
+Canceling – In multiplication of fractions, when one number is divided into both a numerator and a denominator.
+Cartesian coordinates – Ordered number pairs that are assigned to points on a plane.
+Chord – A line segment that connects two points on a circle.
+Circle – A set of points that are all the same distance from a given point.
+Circumference – The distance measured around a circle.
+Coefficient – A number that is placed in front of a variable. For example, in 6x, 6 is the coefficient.
+Common denominator – A number that can be divided evenly by all denominators in the problem.
+Complementary angles – Two angles in which the sum of their measurements equals 90°.
+Complex fraction – A fraction that contains a fraction or fractions in the numerator and/or denominator.
+Congruent – Exactly the same. Identical in regard to size and shape.
+Coordinate graph – Two perpendicular number lines, the x axis and the y axis, which make a plane upon which each point is assigned a pair of numbers.
+Cube – A solid with six sides, with the sides being equal squares and the edges being equal. Also, the resulting number when a number is multiplied by itself twice.
+Cube root – A number that when multiplied by itself twice gives the original number. For example, 4 is the cube root of 64.
+Decimal fraction – Fraction with a denominator of 10, 100, 1,000, etc., written using a decimal point.
+Degree – The measurement unit of an angle.
+Denominator – The bottom symbol or number of a fraction.
+Diameter – A line segment that contains the center and has its endpoints on the circle. Also, the length of this segment.
+Difference – That which results from subtraction.
+Equation – A relationship between symbols and/or numbers that is balanced.
+Equilateral triangle – A triangle that has three equal angles and three sides the same length.
+Even number – An integer which can be divided by 2, with no remainder.
+Expanded notation – To point out the place value of a digit by writing the number as the digit times its place value.
+Exponent – A positive or negative number that expresses the power to which the quantity is to be raised or lowered. It is placed above and to the right of the number.
+Exterior angle – In a triangle, an exterior angle i s equal to the measures of the two interior angles added together.
+Factor – As a noun, it is a number or symbol which divides evenly into a larger number. As a verb, it means to find two or more values whose product equals the original value.
+F.O.I.L. Method – A method used for multiplying binomials in which the first terms, the outside terms, the inside terms, and then the last terms are multiplied.
+Fraction – A symbol which expresses part of a whole. It contains a numerator and a denominator.
+Greatest common factor – The largest factor that is common to two or more numbers.
+Hypotenuse – In a right triangle it is the side opposite from the 90° angle.
+Imaginary number – The square root of a negative number.
+Improper fraction – A fraction in which the numerator is larger than the denominator.
+Integer – A whole number. It may be positive, negative, or zero.
+Interior angles – Angles formed inside the shape or inside two parallel lines.
+Intersecting lines – Lines that come together at a point.
+Interval – The numbers that are contained within two specific boundaries.
+Irrational number – A number that is not rational (cannot be written as a fraction x/y, with x a natural number and y an integer).
+Isosceles triangle – A triangle with two equal sides and two equal angles across from them.
+Least common multiple – The smallest multiple that is common to two or more numbers.
+Linear equation – An equation where the solution set forms a straight line when it is plotted on a coordinate graph.
+Lowest common denominator – The smallest number that can be divided evenly by all denominators in the problem.
+Mean – The average of a number of items in a group (total the items and divide by the number of items).
+Median – The middle item in an ordered group. If the group has an even number of items, the median is the average of the two middle terms.
+Mixed number – A number containing both a whole number and a fraction.
+Monomial – An expression in algebra that consists of only one term.
+Natural number – A counting number.
+Negative number – A number less than zero.
+Nonlinear equation – An equation where the solution set does not form a straight line when it is plotted on a coordinate graph.
+Number line – A visual representation of the positive and negative numbers and zero.
+Numerator – The top symbol or number of a fraction.
+Obtuse angle – An angle which is larger than 90° but less than 180°.
+Obtuse triangle – A triangle which contains an obtuse angle.
+Odd number – An integer (whole number) that is not divisible evenly by 2.
+Ordered pair – Any pair of elements (x,y) where the first element is x and the second element is y. These are used to identify or plot points on coordinate graphs.
+Origin – The intersection point of the two number lines of a coordinate graph. The intersection point is represented by the coordinates (0,0).
+Parallel lines – Two or more lines which are always the same distance apart. They never meet.
+Percentage – A common fraction with 100 as its denominator.
+Perpendicular lines – Two lines which intersect at right angles.
+Pi (π) – A constant that is used for determining the circumference or area of a circle. It is equal to approximately 3.14.
+Polynomial – An expression in algebra that consists of two or more terms.
+Positive number – A number greater than zero.
+Prime number – A number th at can be divided by only itself and one.
+Proper fraction – A fraction in which the numerator is less than the denominator.
+Proportion – Written as two equal ratios. For example, 5 is to 4 as 10 is to 8, or 5/4 = 10/8.
+Pythagorean theorem – A theorem concerning right triangles. It states that the sum of the squares of a right triangle’s two legs is equal to the square of the hypotenuse (a2 + b2 = c2).
+Quadrants – The four divisions on a coordinate graph.
+Quadratic equation – An equation that may be expressed as Ax2 + Bx + C = 0.
+Radical sign – A symbol that designates a square root.
+Radius – A line segment where the endpoints lie one at the center of a circle and one on the circle. The term also refers to the length of this segment.
+Ratio – A comparison between two numbers or symbols. May be written x:y, x/y, or x is to y.
+Rational number – An integer or fraction such as 7/7 or 9/4 or 5/1. Any number that can be written as a fraction x/y with x a natural number and y an integer.
+Reciprocal – The multiplicative inverse of a number. For example, 2/3 is the reciprocal of 3/2.
+Right angle – An angle which measures 90°.
+Right triangle – A triangle which contains a 90° angle.
+Scalene triangle – A triangle in which none of the sides or angles are equal.
+Scientific notation – A number between 1 and 10 and multiplied by a power of 10. Used for writing very large or very small numbers.
+Set – A group of objects, numbers, etc.
+Simplify – To combine terms into fewer terms.
+Solution, or Solution set – The entirety of answers that may satisfy the equation.
+Square – The resulting number when a number is multiplied by itself. Also, a four-sided figure with equal sides and four right angles. The opposite sides are parallel.
+Square root – The number which when multiplied by itself gives you the original number. For example, 6 is the square root of 36.
+Straight angle – An angle which is equal to 180°.
+Straight line – The shortest distance between two points. It continues indefinitely in both directions.
+Supplementary angles – Two angles that when combined the sum equals 180°.
+Term – A literal or numerical expression that has its own sign.
+Transversal – A line which crosses two or more parallel or nonparallel lines in a plane.
+Triangle – A three-sided closed figure. It contains three angles that when combined the sum equals 180°.
+Trinomial – An expression in algebra which consists of three terms.
+Unknown – A symbol or letter whose value is unknown.
+Variable – A symbol that stands for a number.
+Vertical angles – The opposite angles that are formed by the intersection of two lines. Vertical angles are equal.
+Volume – The amount which can be held, as measured in cubic units. The volume of a rectangular prism = length times width times height.
+Whole number – 0, 1, 2, 3, 4, 5, 6, 7, 8, etc.
+X-axis – The horizontal axis on a coordinate graph.
+X-coordinate – The first number in an ordered pair. It refers to the distance on the x-axis.
+Y-axis – The vertical axis on a coordinate graph.
+Y-coordinate – The second number in an ordered pair. It refers to the distance on the y-axis.
