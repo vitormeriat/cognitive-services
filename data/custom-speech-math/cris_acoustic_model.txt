@@ -1,0 +1,6 @@
+b001.wav 	Bell curve is the shape of the graph that indicates a normal distribution in probability and statistics
+b002.wav	Prime number is a number that can be divided by only itself and one
+b003.wav	Radical sign is a symbol that designates a square root
+b004.wav	The resulting number when a number is multiplied by itself, is a Square
+b005.wav	Term is a literal or numerical expression that has its own sign
+b006.wav	X-coordinate, Y-coordinate, X-axis, Y-axis
