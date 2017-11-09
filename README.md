@@ -2,13 +2,19 @@
 
 Natural and contextual interaction with tools that augment users' experiences using the power of machine-based intelligence.
 
-Tests with [IBM](https://www.ibm.com/cognitive/) and [Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/) cognitive API's.
+Tests with [IBM](https://www.ibm.com/cognitive/), [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) and [Google Cloud](https://google.com) cognitive API's.
 
 ### Speaker Recognition
 
+* TBA
+
 ### Text Analytics
 
+* TBA
+
 ### Translator Text
+
+* TBA
 
 ### Computer Vision
 
@@ -26,8 +32,9 @@ Tests with [IBM](https://www.ibm.com/cognitive/) and [Microsoft Azure](https://a
 
 ----------------------------------------
 
-### Custom Vision
+### Custom Services
 
-### Custom Speech
+* [Cognitive Services] Custom Vision [see more in my blog](http://www.vitormeriat.com.br/2017/06/07/custom-vision-ms/)
+* [Cognitive Services] Custom Speech
 
 
