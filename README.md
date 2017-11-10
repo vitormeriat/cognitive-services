@@ -34,7 +34,10 @@ Tests with [IBM](https://www.ibm.com/cognitive/), [Microsoft Cognitive Services]
 
 ### Custom Services
 
-* [Cognitive Services] Custom Vision [see more in my blog](http://www.vitormeriat.com.br/2017/06/07/custom-vision-ms/)
+* [Cognitive Services] Custom Vision 
+  * Documentação oficial: [Microsoft Custom Vision Service](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)
+  * My blog post, a [Custom Vision, Cognitive Services and Computer Vision
+](http://www.vitormeriat.com.br/2017/06/07/custom-vision-ms/)
 * [Cognitive Services] Custom Speech
 
 
