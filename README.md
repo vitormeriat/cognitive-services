@@ -18,17 +18,17 @@ Tests with [IBM](https://www.ibm.com/cognitive/), [Microsoft Cognitive Services]
 
 ### Computer Vision
 
-* [Cognitive Services] Computer Vision - Analyze
-* [Cognitive Services] Computer Vision - Content Moderator
-* [Cognitive Services] Computer Vision - Emotion Recognize
-* [Cognitive Services] Computer Vision - OCR
-* [Cognitive Services] Face - Detect
-* [Google Cloud] Vision - Document Text Detection
-* [Google Cloud] Vision - Logo Detection
-* [Google Cloud] Vision - Safe Search Detection
-* [Google Cloud] Vision - Web Detection
-* [Watson] Visual Recognition - Classify
-* [Watson] Visual Recognition - Detect Faces
+* [[Cognitive Services] Computer Vision - Analyze](/computer-vision/cognitive-services-computer-vision-analyze.ipynb)
+* [[Cognitive Services] Computer Vision - Content Moderator](/computer-vision/cognitive-services-computer-vision-content-moderator.ipynb)
+* [[Cognitive Services] Computer Vision - Emotion Recognize](/computer-vision/cognitive-services-computer-vision-emotion-recognize.ipynb)
+* [[Cognitive Services] Computer Vision - OCR](/computer-vision/cognitive-services-computer-vision-ocr.ipynb)
+* [[Cognitive Services] Face - Detect](/computer-vision/cognitive-services-face-detect.ipynb)
+* [[Google Cloud] Vision - Document Text Detection](/computer-vision/google-cloud-vision-document-text-detection.ipynb)
+* [[Google Cloud] Vision - Logo Detection](/computer-vision/google-cloud-vision-logo-detection.ipynb)
+* [[Google Cloud] Vision - Safe Search Detection](/computer-vision/google-cloud-vision-safe-search-detection.ipynb)
+* [[Google Cloud] Vision - Web Detection](/computer-vision/google-cloud-vision-web-detection.ipynb)
+* [[Watson] Visual Recognition - Classify](/computer-vision/watson-visual-recognition-classify.ipynb)
+* [[Watson] Visual Recognition - Detect Faces](/computer-vision/watson-visual-recognition-detect-faces.ipynb)
 
 ----------------------------------------
 
